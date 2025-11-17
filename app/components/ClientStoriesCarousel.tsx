@@ -53,7 +53,7 @@ export default function ClientStoriesCarousel() {
                 <div className="h-44 w-full bg-black/40 flex items-center justify-center">
                   {i === 0 ? (
                     <Image
-                      src="/images/projects/grupoacalg.png"
+                      src="/images/projects/grupoacalg.PNG"
                       alt="Proyecto web Grupo ACALG"
                       width={480}
                       height={260}
@@ -61,7 +61,7 @@ export default function ClientStoriesCarousel() {
                     />
                   ) : i === 1 ? (
                     <Image
-                      src="/images/projects/capillaselroble.png"
+                      src="/images/projects/capillaselroble.PNG"
                       alt="Proyecto web Capillas El Roble"
                       width={480}
                       height={260}
@@ -69,7 +69,7 @@ export default function ClientStoriesCarousel() {
                     />
                   ) : i === 2 ? (
                     <Image
-                      src="/images/projects/funeralesycremaciones.png"
+                      src="/images/projects/funeralesycremaciones.PNG"
                       alt="Proyecto web Funerales y Cremaciones"
                       width={480}
                       height={260}
